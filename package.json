@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "npx @tailwindcss/cli -i ./style/style.css -o ./style/output.css --watch"
+    "dev": "npx @tailwindcss/cli -i ./styles/style.css -o ./styles/output.css --watch"
   },
   "keywords": [],
   "author": "",
